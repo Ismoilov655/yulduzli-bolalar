@@ -89,7 +89,7 @@ const Header = () => {
 
         <div className="flex justify-between items-center md:mb-8">
           <Link className="font-serif font-bold text-2xl sm:text-3xl" to="/">
-            Bola tv
+            Yuldizli bolalar
           </Link>
           <Link className="hidden md:inline-flex bg-blue-200 px-5 py-2 rounded  transition-all duration-300 hover:bg-green-300" to="https://t.me/bolatvuz" target="_blank"
             rel="noopener noreferrer" >
