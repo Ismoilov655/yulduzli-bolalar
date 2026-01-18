@@ -16,7 +16,6 @@ const Rustili = () => {
                     <h1 className='absolute top-10 left-1/2 -translate-x-1/2 text-xl text-red-800 font-bold sm:text-2xl sm:top-14 md:text-4xl md:top-16 lg:text-5xl'>Rus tili</h1>
                 </div>
             </div>
-
             <InputSelekt />
         </main>
     )
