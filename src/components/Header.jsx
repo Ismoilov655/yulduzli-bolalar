@@ -45,7 +45,7 @@ const Header = () => {
         <div>
           <div className="mb-6 flex items-center justify-between">
             <Link className="text-green-500 font-serif font-bold text-3xl sm:text-2xl" to="/">
-              Bola tv
+              Yulduzli bolalar
             </Link>
           </div>
 
@@ -57,6 +57,7 @@ const Header = () => {
               { to: "/qo'shiqlar", label: "Qo'shiqlar" },
               { to: "/matematika", label: "Qiziqarli matematika" },
               { to: "/ingliztili", label: "Ingliz tili" },
+              { to: "/rustili", label: "Rus tili" },
               { to: "/badantarbiya", label: "Badantarbiya" },
               { to: "/rasm", label: "Rasm" },
               { to: "/murojaat", label: "Murojaat" },
@@ -105,7 +106,7 @@ const Header = () => {
           </button>
         </div>
 
-        <nav className="hidden md:flex justify-center items-center px-5 py-3 bg-white rounded-lg shadow-md">
+        <nav className="hidden md:flex justify-center items-center px-2 py-4 bg-white rounded-lg shadow-md">
           <ul className="flex flex-wrap gap-x-9">
             {[
               { to: "/", label: "Bosh sahifa" },
@@ -114,6 +115,7 @@ const Header = () => {
               { to: "/qo'shiqlar", label: "Qo'shiqlar" },
               { to: "/matematika", label: "Qiziqarli matematika" },
               { to: "/ingliztili", label: "Ingliz tili" },
+              { to: "/rustili", label: "Rus tili" },
               { to: "/badantarbiya", label: "Badantarbiya" },
               { to: "/rasm", label: "Rasm" },
               { to: "/murojaat", label: "Murojaat" },

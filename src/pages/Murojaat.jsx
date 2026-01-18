@@ -150,7 +150,7 @@ const Murojaat = () => {
                         </div>
                         <div>
                             <h3 className="text-xl font-semibold mb-1 text-blue-500">Qo'ng'iroq qilish</h3>
-                            <p>+99891 496-29-07</p>
+                            <p>+99877 383 94 02</p>
                         </div>
                     </div>
                 </div>

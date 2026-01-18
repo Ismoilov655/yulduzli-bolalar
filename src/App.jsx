@@ -15,6 +15,7 @@ import QiziqarliMatematika from './pages/QiziqarliMatematika'
 import InglizTili from './pages/InglizTili'
 import Badantarbiya from './pages/Badantarbiya'
 import Rasm from './pages/Rasm'
+import Rustili from './pages/Rustili'
 
 const App = () => {
   const routes = createBrowserRouter(
@@ -26,6 +27,7 @@ const App = () => {
         <Route path="/qo'shiqlar" element={<Qoshiqlar />} />
         <Route path='/matematika' element={<QiziqarliMatematika />} />
         <Route path='/ingliztili' element={<InglizTili/>} />
+        <Route path='/rustili' element={<Rustili/>} />
         <Route path='/badantarbiya' element={<Badantarbiya/>} />
         <Route path='/rasm' element={<Rasm/>} />
         <Route path='/murojaat' element={<Murojaat />} />

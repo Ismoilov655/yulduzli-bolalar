@@ -892,101 +892,168 @@ export const malumot = {
         "id": 1,
         "title": "Panda rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/QNgKj4lkh9E/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/QNgKj4lkh9E?playlist=QNgKj4lkh9E&loop=1"
       },
       {
         "id": 2,
         "title": "Qo'ng'iroq rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/Kfdeb-yHd9Y/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/Kfdeb-yHd9Y?playlist=Kfdeb-yHd9Y&loop=1"
       },
       {
         "id": 3,
         "title": "Yangi yil archasi rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/0BWrSfLs8rU/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/0BWrSfLs8rU?playlist=0BWrSfLs8rU&loop=1"
       },
       {
         "id": 4,
         "title": "Kuchukcha rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/jfez3Eq762I/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/jfez3Eq762I?playlist=jfez3Eq762I&loop=1"
       },
       {
         "id": 5,
         "title": "Soyabon rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/HnMhocQhzV8/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/HnMhocQhzV8?playlist=HnMhocQhzV8&loop=1"
       },
       {
         "id": 6,
         "title": "Kapalak rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/0DBV6T9AZXk/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/0DBV6T9AZXk?playlist=0DBV6T9AZXk&loop=1"
       },
       {
         "id": 7,
         "title": "Fil rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/IsytJjg0uUc/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/IsytJjg0uUc?playlist=IsytJjg0uUc&loop=1"
       },
       {
         "id": 8,
         "title": "Ayiq rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/7q3Y6cyE0LI/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/7q3Y6cyE0LI?playlist=7q3Y6cyE0LI&loop=1"
       },
       {
         "id": 45,
         "title": "Kuchukcha rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/fYrYpYc0wF4/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/fYrYpYc0wF4?playlist=fYrYpYc0wF4&loop=1"
       },
       {
         "id": 9,
         "title": "Kit rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/mog3X2B6phc/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/mog3X2B6phc?playlist=mog3X2B6phc&loop=1"
       },
       {
         "id": 10,
         "title": "Ninachi rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/nN3AuAngmMw/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/nN3AuAngmMw?playlist=nN3AuAngmMw&loop=1"
       },
       {
         "id": 11,
         "title": "Sigir rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/_3eqIkBRQnw/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/_3eqIkBRQnw?playlist=_3eqIkBRQnw&loop=1"
       },
       {
         "id": 12,
         "title": "Ot rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/Gr4hqOSg598/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/Gr4hqOSg598?playlist=Gr4hqOSg598&loop=1"
       },
       {
         "id": 13,
         "title": "Atirgul rasmini chizamiz",
         "image": "https://i.ytimg.com/vi/8IaseU0V7d0/maxresdefault.jpg",
-        "language": "uz",
+        "language": "eng",
         "videoUrl": "https://www.youtube.com/embed/8IaseU0V7d0?playlist=8IaseU0V7d0&loop=1"
       }
     ]
 
+  },
+  rustili:{
+    "Rus tilini o'rganamiz":[
+      {
+        "id":1,
+        "title":"Rus tili hariflari",
+        "image":"https://i.ytimg.com/vi/NubrWHBh4O0/maxresdefault.jpg",
+        "language":"uz",
+        "videoUrl":"https://www.youtube.com/embed/NubrWHBh4O0?playlist=NubrWHBh4O0&loop=1"
+      },
+      {
+        "id":2,
+        "title":"Olmoshlar",
+        "image":"https://i.ytimg.com/vi/FA2Ab-cf77g/maxresdefault.jpg",
+        "language":"uz",
+        "videoUrl":"https://www.youtube.com/embed/FA2Ab-cf77g?playlist=FA2Ab-cf77g&loop=1" 
+      },
+      {
+        "id":3,
+        "title":"Kimda ,-da qoshimchasi",
+        "image":"https://i.ytimg.com/vi/GYPPBWfuvy0/maxresdefault.jpg",
+        "language":"uz",
+        "videoUrl":"https://www.youtube.com/embed/GYPPBWfuvy0?playlist=GYPPBWfuvy0&loop=1"
+      },
+      {
+        "id":4,
+        "title":"Ko'plik",
+        "image":"https://i.ytimg.com/vi/NFMi-TypA1E/maxresdefault.jpg",
+        "language":"uz",
+        "videoUrl":"https://www.youtube.com/embed/NFMi-TypA1E?playlist=NFMi-TypA1E&loop=1"
+      },
+      {
+        "id":5,
+        "title":"Sifatlar",
+        "image":"https://i.ytimg.com/vi/4eTbwMk-G28/maxresdefault.jpg",
+        "language":"uz",
+        "videoUrl":"https://www.youtube.com/embed/4eTbwMk-G28?playlist=4eTbwMk-G28&loop=1"
+      },
+      {
+        "id":6,
+        "title":"Sonlar",
+        "image":"https://i.ytimg.com/vi/B_kMjAPfA98/maxresdefault.jpg",
+        "language":"uz",
+        "videoUrl":"https://www.youtube.com/embed/B_kMjAPfA98?playlist=B_kMjAPfA98&loop=1" 
+      },
+      {
+        "id":7,
+        "title":"Takrorlash",
+        "image":"https://i.ytimg.com/vi/jMXaTl3rqDI/maxresdefault.jpg",
+        "language":"uz",
+        "videoUrl":"https://www.youtube.com/embed/jMXaTl3rqDI?playlist=jMXaTl3rqDI&loop=1"
+      },
+      {
+        "id":8,
+        "title":"Sifat darajalari",
+        "image":"https://i.ytimg.com/vi/WAS5sFEaqy0/maxresdefault.jpg",
+        "language":"uz",
+        "videoUrl":"https://www.youtube.com/embed/WAS5sFEaqy0?playlist=WAS5sFEaqy0&loop=1" 
+      },
+      {
+        "id":8,
+        "title":"Hozirgi zamon",
+        "image":"https://i.ytimg.com/vi/hlzRjaXV4lU/maxresdefault.jpg",
+        "language":"uz",
+        "videoUrl":"https://www.youtube.com/embed/hlzRjaXV4lU?playlist=hlzRjaXV4lU&loop=1"
+      }
+    ]
   }
 }
