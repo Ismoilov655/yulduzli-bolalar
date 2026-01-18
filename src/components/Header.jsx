@@ -107,7 +107,7 @@ const Header = () => {
         </div>
 
         <nav className="hidden md:flex justify-center items-center px-2 py-5 bg-white rounded-lg shadow-md">
-          <ul className="flex flex-wrap gap-x-9">
+          <ul className="flex flex-wrap gap-x-8">
             {[
               { to: "/", label: "Bosh sahifa" },
               { to: "/ertaklar", label: "Ertaklar" },
