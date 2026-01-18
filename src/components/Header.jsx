@@ -106,7 +106,7 @@ const Header = () => {
           </button>
         </div>
 
-        <nav className="hidden md:flex justify-center items-center px-2 py-4 bg-white rounded-lg shadow-md">
+        <nav className="hidden md:flex justify-center items-center px-2 py-5 bg-white rounded-lg shadow-md">
           <ul className="flex flex-wrap gap-x-9">
             {[
               { to: "/", label: "Bosh sahifa" },
