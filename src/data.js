@@ -568,9 +568,9 @@ export const malumot = {
       {
         "id": 5,
         "title": "Ferdinand",
-        "image": "https://i.ytimg.com/vi/7B8oEjl4rUk/hq720.jpg",
+        "image": "https://i.ytimg.com/vi/wIg5mp2BuQI/hq720.jpg",
         "language": "ru",
-        "videoUrl": "https://www.youtube.com/embed/0S4Jo1tYtJc?playlist=0S4Jo1tYtJc&loop=1"
+        "videoUrl": "https://www.youtube.com/embed/wIg5mp2BuQI?playlist=wIg5mp2BuQI&loop=1"
       }
     ]
 
