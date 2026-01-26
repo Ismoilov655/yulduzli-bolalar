@@ -729,9 +729,9 @@ export const malumot = {
       {
         id: 15,
         title: "Qo'shishni o'rganamiz",
-        image: "https://i.ytimg.com/vi/dZ0eiu7ovRg/maxresdefault.jpg",
+        image: "https://i.ytimg.com/vi/KFa8r1NmbMM/maxresdefault.jpg",
         language: "uz",
-        videoUrl: "https://www.youtube.com/embed/dZ0eiu7ovRg?playlist=dZ0eiu7ovRg&loop=1"
+        videoUrl: "https://www.youtube.com/embed/KFa8r1NmbMM?playlist=KFa8r1NmbMM&loop=1"
       },
       {
         id: 652,
